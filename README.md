@@ -17,7 +17,7 @@ Este dataset sintético simula información de estudiantes universitarios durant
 
 ---
 
-## 📋 Descripción de Variables
+## Descripción de Variables
 
 | Variable | Tipo | Rango / Categorías | Descripción |
 |---|---|---|---|
@@ -89,8 +89,8 @@ python generar_dataset.py
 
 ## Integrantes del grupo
 
-| Nombre | Grupo |
-|---|---|
+| Nombre | 
+|---|
 | Cala Ardila Jhonny Gabriel
 | Ramos Amador Antwan
 
